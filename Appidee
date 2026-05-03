@@ -1,0 +1,18 @@
+App Idee: RunRPG - Jeden Tag kleine Challenges
+
+Idee: Eine App bei der man jeden Tag kleine Challenges
+      bekommt, bezogen auf bewegung. Man kann selber Einstellen
+      welche Art von Gehaufgaben kommen. Man erhält Punkte, mit
+      denen man im Level aufsteigen kann und seine kleinen Begleiter
+      größer wächsen lässt.
+
+
+MVP: -Schrittzähler
+     -Streakzähler
+     -Kalendar
+     -Pop-up Nachricht.
+     -Einstellbare Missionen
+     -Einfaches Levelsystem
+     -Begleiter der größer wird.
+
+Screens: Homescreen, Optionen, Profil, Aufgabenboard, Statistiken, Meilensteine
